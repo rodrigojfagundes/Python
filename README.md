@@ -1,2 +1,2 @@
 # Python
-Codigos em Python do curso: Geek University do basico ao avançado
+Codigos em Python feitos por mim com o curso: Geek University do basico ao avançado
